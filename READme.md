@@ -13,7 +13,7 @@ Simple Web App that displays data using a Pokemon API
 - Pokemon API
 
 ## Getting Started
-[Click Here](#) to see app!
+[Click Here](https://handwidhtv8.github.io/pokegallery/) to see app!
 
 ## Future Adjustments
 - ability to save and favorite to localstorage.
