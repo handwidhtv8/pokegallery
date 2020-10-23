@@ -48,6 +48,7 @@ main {
     border: 1px solid var(--primary-brand-color);
     box-shadow: 1px 1px 12px 1px var(--shadow-gray-light);
     font-size: 30px;
+    text-transform: capitalize;
 }
 .card:hover {
     box-shadow: 1px 1px 15px 1px var(--shadow-gray-dark);
