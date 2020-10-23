@@ -1,6 +1,6 @@
 # PokeGallery
 
-Simple Webb App that displays data using a Pokemon API
+Simple Web App that displays data using a Pokemon API
 
 ## Technologies Used
 
