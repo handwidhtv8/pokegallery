@@ -1,7 +1,7 @@
 // IPO Input -> Process -> Output
 // Constants and State Variables (Data)
 // Constant Data
-const BASE_URL = 'https://pokeapi.co/api/v2/pokemon/'
+const BASE_URL = "https://pokeapi.co/api/v2/pokemon/?offset=0&limit=1050"
 // State Data
 let pokemonData, pokemonDetail;
 // Cached Element References
